@@ -1,0 +1,11 @@
+{
+    "name": " Doe",
+    "address": "123 Main St, City, State ZIP",
+    "email": "johndoe@example.com",
+    "education_title": "Bachelor of Science in Computer Science",
+    "education_description": "XYZ University, 2010-2014",
+    "experience_title": "Software Engineer",
+    "experience_description":"ABC inc.",
+    "skills": ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+    "hobbies":"reading book"
+}

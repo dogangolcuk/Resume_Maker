@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0; /* Reset the body margin to eliminate default spacing */
+}
+
+@page {
+  size: A4;
+  margin: 0.5cm 0cm; /* Top and bottom margins are 0cm, left and right margins are 0cm */
+}
+
+.resume {
+  max-width: 600px;
+  margin: 5px auto;
+  padding: 50px;
+  background-color: #14d3ec;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0; /* Remove top and bottom margins */
+}
+
+h2 {
+  font-size: 20px;
+}
+
+#name {
+  color: #333;
+}
+
+#address {
+  color: #555;
+}
+
+#email {
+  color: #d6da02;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; /* Remove list margin */
+}
